@@ -18,6 +18,8 @@ This project analyzes e-commerce sales data using Python, NumPy, Pandas, and Mat
 - Matplotlib
 
 ## Author
-Prasanjeet Kumar Das
-Student, Arya College of Engineering
-Intern, Grras Solutions Pvt. Ltd.
+Prasanjeet Kumar Das,
+Student 
+Arya College of Engineering,
+Intern
+Grras Solutions Pvt. Ltd.
